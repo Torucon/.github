@@ -1,2 +1,3 @@
-# .github
-Torucon's default repository.
+# Torucon
+
+Welcome to Torucon's default GitHub repository!
